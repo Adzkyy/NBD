@@ -1,0 +1,4 @@
+Zad7
+db.people.deleteMany( { height: { $gt: "190" } } );
+
+[]
