@@ -1,7 +1,3 @@
-db.people.updateMany( { first_name: "Antonio" }, { $set: { hobby: "pingpong" } } );
-
-printjson(db.people.find( { first_name: "Antonio" }).toArray());
-
 [
     {
         "_id" : ObjectId("5eee725d4638b328e8d752f5"),
