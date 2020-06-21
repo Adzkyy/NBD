@@ -1,5 +1,3 @@
- ZAD 1:
-> printjson(db.people.findOne());
 {
         "_id" : ObjectId("5eee725d4638b328e8d75207"),
         "sex" : "Male",
