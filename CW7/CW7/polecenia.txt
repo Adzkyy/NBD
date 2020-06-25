@@ -1,0 +1,33 @@
+1:
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "iphone", "model": "11pro", "color": "grey", price: 500}' http://localhost:8098/buckets/s13989/keys/p1
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "samsung", "model": "s11", "color": "black", price: 1000}' http://localhost:8098/buckets/s13989/keys/p2
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Nokia", "model": "3310", "color": "blue", price: 4000}' http://localhost:8098/buckets/s13989/keys/p3
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Sony Eriksson", "model": "k800", "color": "black", price: 3500}' http://localhost:8098/buckets/s13989/keys/p4
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Xiaomi", "model": "mi8", "color": "grey", price: 500}' http://localhost:8098/buckets/s13989/keys/p5
+
+2: 
+curl -i http://localhost:8098/buckets/s13989/keys/p1
+
+3: 
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "iphone", "model": "11pro", "color": "grey", price: 500, amount: 2}' http://localhost:8098/buckets/s13989/keys/p1
+
+4: 
+curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Xiaomi", "model": "mi8", "color": "grey"}' http://localhost:8098/buckets/s13989/keys/p5
+
+5: 
+curl -i -XPUT -H "Content-Type: application/json" -d '{""phone": "Sony Eriksson", "model": "k800", "color": "white", price: 3500}' http://localhost:8098/buckets/s13989/keys/p4
+
+6: 
+curl -i -XDELETE -H "Content-Type: application/json" http://localhost:8098/buckets/s13989/keys/p5
+
+7: 
+curl -i http://localhost:8098/buckets/s13989/keys/p6
+
+8: 
+curl -i -H "Content-Type: application/json" -d '{"phone": "Sony", "model": "m10", "color": "black", price: 100}' http://localhost:8098/buckets/s13989/keys
+
+9: 
+curl -i http://localhost:8098/buckets/s13989/keys/ONhHkuXCQzvxaLQNAVLLHQ8PzJY
+
+10: 
+curl -i -XDELETE -H "Content-Type: application/json" http://localhost:8098/buckets/s13989/keys/ONhHkuXCQzvxaLQNAVLLHQ8PzJY

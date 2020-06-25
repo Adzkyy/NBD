@@ -1,0 +1,8 @@
+labnbd@labnbd-virtual-machine:~$ curl -i -H "Content-Type: application/json" -d '{"phone": "Sony", "model": "m10", "color": "black", price: 100}' http://localhost:8098/buckets/s13989/keys
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Location: /buckets/s13989/keys/ONhHkuXCQzvxaLQNAVLLHQ8PzJY
+Date: Thu, 25 Jun 2020 19:27:44 GMT
+Content-Type: application/json
+Content-Length: 0

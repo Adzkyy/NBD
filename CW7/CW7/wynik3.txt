@@ -1,0 +1,7 @@
+labnbd@labnbd-virtual-machine:~$ curl -i -XPUT ": "11pro", "color": "grey", price: 500, amount: 2}' http://localhost:8098/buckets/s13989/keys/p1
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:21:31 GMT
+Content-Type: application/json
+Content-Length: 0

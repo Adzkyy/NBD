@@ -1,0 +1,7 @@
+labnbd@labnbd-virtual-machine:~$ curl -i -XDELETE -H "Content-Type: application/json" http://localhost:8098/buckets/s13989/keys/p5
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:25:27 GMT
+Content-Type: application/json
+Content-Length: 0

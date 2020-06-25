@@ -1,0 +1,12 @@
+labnbd@labnbd-virtual-machine:~$ curl -i http://localhost:8098/buckets/s13989/keys/p1HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fsZES79iYPBTzGBKZM5jZSgszrzBlwUA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Link: </buckets/s13989>; rel="up"
+Last-Modified: Thu, 25 Jun 2020 19:13:53 GMT
+ETag: "6KKtnmfBFMKmLgeTEvywSG"
+Date: Thu, 25 Jun 2020 19:20:05 GMT
+Content-Type: application/json
+Content-Length: 66
+
+{"phone": "iphone", "model": "11pro", "color": "grey", price: 500}

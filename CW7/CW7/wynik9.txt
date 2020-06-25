@@ -1,0 +1,13 @@
+labnbd@labnbd-virtual-machine:~$ curl -i http://localhost:8098/buckets/s13989/keys/ONhHkuXCQzvxaLQNAVLLHQ8PzJY
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fsaEO11hYPBTzmBKZMxjZdhQlnmDLwsA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Link: </buckets/s13989>; rel="up"
+Last-Modified: Thu, 25 Jun 2020 19:27:44 GMT
+ETag: "12mIKkWWS5edUv0SpsETN0"
+Date: Thu, 25 Jun 2020 19:28:52 GMT
+Content-Type: application/json
+Content-Length: 63
+
+{"phone": "Sony", "model": "m10", "color": "black", price: 100}

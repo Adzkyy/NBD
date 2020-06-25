@@ -1,0 +1,39 @@
+labnbd@labnbd-virtual-machine:~$ curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "iphone", "model": "11pro", "color": "grey", price: 500}' http://localhost:8098/buckets/s13989/keys/p1
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:13:53 GMT
+Content-Type: application/json
+Content-Length: 0
+
+labnbd@labnbd-virtual-machine:~$ curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "samsung", "model": "s11", "color": "black", price: 1000}' http://localhost:8098/buckets/s13989/keys/p2
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:13:53 GMT
+Content-Type: application/json
+Content-Length: 0
+
+labnbd@labnbd-virtual-machine:~$ curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Nokia", "model": "3310", "color": "blue", price: 4000}' http://localhost:8098/buckets/s13989/keys/p3
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:13:54 GMT
+Content-Type: application/json
+Content-Length: 0
+
+labnbd@labnbd-virtual-machine:~$ curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Sony Eriksson", "model": "k800", "color": "black", price: 3500}' http://localhost:8098/buckets/s13989/keys/p4
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:13:54 GMT
+Content-Type: application/json
+Content-Length: 0
+
+labnbd@labnbd-virtual-machine:~$ curl -i -XPUT -H "Content-Type: application/json" -d '{"phone": "Xiaomi", "model": "mi8", "color": "grey", price: 500}' http://localhost:8098/buckets/s13989/keys/p5
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Date: Thu, 25 Jun 2020 19:14:06 GMT
+Content-Type: application/json
+Content-Length: 0
