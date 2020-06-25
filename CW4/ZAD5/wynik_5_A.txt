@@ -1,0 +1,367 @@
+[
+    {
+        "_id" : "ZMW",
+        "Average balace" : 5569.56,
+        "Sum of funds" : 5569.56
+    },
+    {
+        "_id" : "UZS",
+        "Average balace" : 3573.03,
+        "Sum of funds" : 3573.03
+    },
+    {
+        "_id" : "MWK",
+        "Average balace" : 3574.42,
+        "Sum of funds" : 3574.42
+    },
+    {
+        "_id" : "IRR",
+        "Average balace" : 4417.373333333333,
+        "Sum of funds" : 26504.239999999998
+    },
+    {
+        "_id" : "NGN",
+        "Average balace" : 4157.705,
+        "Sum of funds" : 24946.23
+    },
+    {
+        "_id" : "RWF",
+        "Average balace" : 4632.88,
+        "Sum of funds" : 4632.88
+    },
+    {
+        "_id" : "MNT",
+        "Average balace" : 5428.9025,
+        "Sum of funds" : 21715.61
+    },
+    {
+        "_id" : "COP",
+        "Average balace" : 4936.6825,
+        "Sum of funds" : 19746.73
+    },
+    {
+        "_id" : "BOB",
+        "Average balace" : 5263.3,
+        "Sum of funds" : 5263.3
+    },
+    {
+        "_id" : "ISK",
+        "Average balace" : 4316.41,
+        "Sum of funds" : 4316.41
+    },
+    {
+        "_id" : "USD",
+        "Average balace" : 4978.732,
+        "Sum of funds" : 74680.98
+    },
+    {
+        "_id" : "VND",
+        "Average balace" : 4520.0325,
+        "Sum of funds" : 36160.26
+    },
+    {
+        "_id" : "PHP",
+        "Average balace" : 4941.928333333333,
+        "Sum of funds" : 118606.28
+    },
+    {
+        "_id" : "AMD",
+        "Average balace" : 4921.866,
+        "Sum of funds" : 24609.33
+    },
+    {
+        "_id" : "KZT",
+        "Average balace" : 3788.95,
+        "Sum of funds" : 3788.95
+    },
+    {
+        "_id" : "NIO",
+        "Average balace" : 4985.64,
+        "Sum of funds" : 9971.28
+    },
+    {
+        "_id" : "CDF",
+        "Average balace" : 6114.4,
+        "Sum of funds" : 12228.8
+    },
+    {
+        "_id" : "MYR",
+        "Average balace" : 4781.12,
+        "Sum of funds" : 4781.12
+    },
+    {
+        "_id" : "JPY",
+        "Average balace" : 5078.7283333333335,
+        "Sum of funds" : 60944.74
+    },
+    {
+        "_id" : "THB",
+        "Average balace" : 4604.392,
+        "Sum of funds" : 23021.96
+    },
+    {
+        "_id" : "SEK",
+        "Average balace" : 5060.013571428572,
+        "Sum of funds" : 70840.19
+    },
+    {
+        "_id" : "CNY",
+        "Average balace" : 4954.740842105263,
+        "Sum of funds" : 470700.38
+    },
+    {
+        "_id" : "AFN",
+        "Average balace" : 5585.163333333334,
+        "Sum of funds" : 16755.49
+    },
+    {
+        "_id" : "MMK",
+        "Average balace" : 4629.42,
+        "Sum of funds" : 4629.42
+    },
+    {
+        "_id" : "RSD",
+        "Average balace" : 4276.56,
+        "Sum of funds" : 4276.56
+    },
+    {
+        "_id" : "UAH",
+        "Average balace" : 5058.9800000000005,
+        "Sum of funds" : 40471.840000000004
+    },
+    {
+        "_id" : "TZS",
+        "Average balace" : 3526.1850000000004,
+        "Sum of funds" : 7052.370000000001
+    },
+    {
+        "_id" : "SRD",
+        "Average balace" : 5286.68,
+        "Sum of funds" : 5286.68
+    },
+    {
+        "_id" : "ETB",
+        "Average balace" : 5436.11,
+        "Sum of funds" : 5436.11
+    },
+    {
+        "_id" : "BWP",
+        "Average balace" : 4076.29,
+        "Sum of funds" : 4076.29
+    },
+    {
+        "_id" : "ZWL",
+        "Average balace" : 5792.17,
+        "Sum of funds" : 5792.17
+    },
+    {
+        "_id" : "NZD",
+        "Average balace" : 5328.46,
+        "Sum of funds" : 5328.46
+    },
+    {
+        "_id" : "MKD",
+        "Average balace" : 3835.05,
+        "Sum of funds" : 3835.05
+    },
+    {
+        "_id" : "IDR",
+        "Average balace" : 4907.918030303031,
+        "Sum of funds" : 323922.59
+    },
+    {
+        "_id" : "CZK",
+        "Average balace" : 4644.5525,
+        "Sum of funds" : 37156.42
+    },
+    {
+        "_id" : "EUR",
+        "Average balace" : 4901.8294,
+        "Sum of funds" : 245091.47
+    },
+    {
+        "_id" : "BRL",
+        "Average balace" : 4512.001818181819,
+        "Sum of funds" : 49632.020000000004
+    },
+    {
+        "_id" : "NOK",
+        "Average balace" : 4773.66,
+        "Sum of funds" : 4773.66
+    },
+    {
+        "_id" : "EGP",
+        "Average balace" : 5579.3,
+        "Sum of funds" : 5579.3
+    },
+    {
+        "_id" : "IQD",
+        "Average balace" : 4269.39,
+        "Sum of funds" : 4269.39
+    },
+    {
+        "_id" : "PLN",
+        "Average balace" : 5042.821111111111,
+        "Sum of funds" : 90770.78
+    },
+    {
+        "_id" : "MAD",
+        "Average balace" : 3818.85,
+        "Sum of funds" : 3818.85
+    },
+    {
+        "_id" : "MXN",
+        "Average balace" : 5022.9,
+        "Sum of funds" : 50229
+    },
+    {
+        "_id" : "CUP",
+        "Average balace" : 5005.78,
+        "Sum of funds" : 15017.34
+    },
+    {
+        "_id" : "ZAR",
+        "Average balace" : 3930.306666666667,
+        "Sum of funds" : 11790.92
+    },
+    {
+        "_id" : "VUV",
+        "Average balace" : 6418.27,
+        "Sum of funds" : 6418.27
+    },
+    {
+        "_id" : "RUB",
+        "Average balace" : 4989.547916666666,
+        "Sum of funds" : 119749.15
+    },
+    {
+        "_id" : "KYD",
+        "Average balace" : 3760.89,
+        "Sum of funds" : 3760.89
+    },
+    {
+        "_id" : "CLP",
+        "Average balace" : 5252.2375,
+        "Sum of funds" : 21008.95
+    },
+    {
+        "_id" : "MGA",
+        "Average balace" : 4853.663333333333,
+        "Sum of funds" : 14560.99
+    },
+    {
+        "_id" : "XPF",
+        "Average balace" : 4759.07,
+        "Sum of funds" : 4759.07
+    },
+    {
+        "_id" : "ARS",
+        "Average balace" : 4648.4,
+        "Sum of funds" : 23242
+    },
+    {
+        "_id" : "PYG",
+        "Average balace" : 4874.69,
+        "Sum of funds" : 4874.69
+    },
+    {
+        "_id" : "ALL",
+        "Average balace" : 3325.48,
+        "Sum of funds" : 3325.48
+    },
+    {
+        "_id" : "XOF",
+        "Average balace" : 5960.683333333333,
+        "Sum of funds" : 17882.05
+    },
+    {
+        "_id" : "BGN",
+        "Average balace" : 5300.22,
+        "Sum of funds" : 21200.88
+    },
+    {
+        "_id" : "YER",
+        "Average balace" : 4570.833333333333,
+        "Sum of funds" : 13712.5
+    },
+    {
+        "_id" : "TJS",
+        "Average balace" : 4087.71,
+        "Sum of funds" : 4087.71
+    },
+    {
+        "_id" : "CAD",
+        "Average balace" : 5306.872727272727,
+        "Sum of funds" : 58375.6
+    },
+    {
+        "_id" : "XAF",
+        "Average balace" : 4698.22,
+        "Sum of funds" : 14094.66
+    },
+    {
+        "_id" : "ILS",
+        "Average balace" : 5431.83,
+        "Sum of funds" : 16295.49
+    },
+    {
+        "_id" : "HRK",
+        "Average balace" : 4870.964,
+        "Sum of funds" : 24354.82
+    },
+    {
+        "_id" : "PEN",
+        "Average balace" : 4661.235,
+        "Sum of funds" : 18644.94
+    },
+    {
+        "_id" : "PKR",
+        "Average balace" : 4734.5,
+        "Sum of funds" : 18938
+    },
+    {
+        "_id" : "KRW",
+        "Average balace" : 6689.91,
+        "Sum of funds" : 13379.82
+    },
+    {
+        "_id" : "NPR",
+        "Average balace" : 5792.26,
+        "Sum of funds" : 5792.26
+    },
+    {
+        "_id" : "DOP",
+        "Average balace" : 5168.6849999999995,
+        "Sum of funds" : 20674.739999999998
+    },
+    {
+        "_id" : "HNL",
+        "Average balace" : 5504.863333333334,
+        "Sum of funds" : 16514.59
+    },
+    {
+        "_id" : "GBP",
+        "Average balace" : 6149.19,
+        "Sum of funds" : 6149.19
+    },
+    {
+        "_id" : "LYD",
+        "Average balace" : 4382.495,
+        "Sum of funds" : 8764.99
+    },
+    {
+        "_id" : "BYR",
+        "Average balace" : 5095.79,
+        "Sum of funds" : 5095.79
+    },
+    {
+        "_id" : "VEF",
+        "Average balace" : 4166.64,
+        "Sum of funds" : 8333.28
+    },
+    {
+        "_id" : "GTQ",
+        "Average balace" : 5806.3,
+        "Sum of funds" : 5806.3
+    }
+]

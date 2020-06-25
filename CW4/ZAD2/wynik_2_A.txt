@@ -1,0 +1,1236 @@
+[
+    {
+        "_id" : "HTG",
+        "Accumulated account balances" : 215992.13
+    },
+    {
+        "_id" : "VUV",
+        "Accumulated account balances" : 23188.93
+    },
+    {
+        "_id" : "CUP",
+        "Accumulated account balances" : 514413.88
+    },
+    {
+        "_id" : "MRO",
+        "Accumulated account balances" : 44471.32
+    },
+    {
+        "_id" : "AZN",
+        "Accumulated account balances" : 394880.17
+    },
+    {
+        "_id" : "ARS",
+        "Accumulated account balances" : 1940347.24
+    },
+    {
+        "_id" : "TWD",
+        "Accumulated account balances" : 37654
+    },
+    {
+        "_id" : "ALL",
+        "Accumulated account balances" : 651597.87
+    },
+    {
+        "_id" : "PYG",
+        "Accumulated account balances" : 286515.48
+    },
+    {
+        "_id" : "XPF",
+        "Accumulated account balances" : 132926.01
+    },
+    {
+        "_id" : "CLP",
+        "Accumulated account balances" : 388620.14
+    },
+    {
+        "_id" : "BBD",
+        "Accumulated account balances" : 26720.5
+    },
+    {
+        "_id" : "SGD",
+        "Accumulated account balances" : 12820.48
+    },
+    {
+        "_id" : "SDG",
+        "Accumulated account balances" : 127317.75
+    },
+    {
+        "_id" : "DKK",
+        "Accumulated account balances" : 222452.28
+    },
+    {
+        "_id" : "QAR",
+        "Accumulated account balances" : 36358.92
+    },
+    {
+        "_id" : "MZN",
+        "Accumulated account balances" : 92068.64
+    },
+    {
+        "_id" : "XOF",
+        "Accumulated account balances" : 934043.61
+    },
+    {
+        "_id" : "BGN",
+        "Accumulated account balances" : 496641.83
+    },
+    {
+        "_id" : "PEN",
+        "Accumulated account balances" : 2356548.02
+    },
+    {
+        "_id" : "BAM",
+        "Accumulated account balances" : 415965.47
+    },
+    {
+        "_id" : "STD",
+        "Accumulated account balances" : 4854.36
+    },
+    {
+        "_id" : "HRK",
+        "Accumulated account balances" : 689403.5
+    },
+    {
+        "_id" : "XAF",
+        "Accumulated account balances" : 736336.77
+    },
+    {
+        "_id" : "LSL",
+        "Accumulated account balances" : 26269.07
+    },
+    {
+        "_id" : "FJD",
+        "Accumulated account balances" : 9321.43
+    },
+    {
+        "_id" : "UYU",
+        "Accumulated account balances" : 231996.14
+    },
+    {
+        "_id" : "HNL",
+        "Accumulated account balances" : 817695.24
+    },
+    {
+        "_id" : "NPR",
+        "Accumulated account balances" : 146606.65
+    },
+    {
+        "_id" : "GBP",
+        "Accumulated account balances" : 243512.86
+    },
+    {
+        "_id" : "LYD",
+        "Accumulated account balances" : 197545.65
+    },
+    {
+        "_id" : "BMD",
+        "Accumulated account balances" : 5189
+    },
+    {
+        "_id" : "UZS",
+        "Accumulated account balances" : 330309.61
+    },
+    {
+        "_id" : "VEF",
+        "Accumulated account balances" : 629053.41
+    },
+    {
+        "_id" : "GTQ",
+        "Accumulated account balances" : 588368.85
+    },
+    {
+        "_id" : "CVE",
+        "Accumulated account balances" : 46538.51
+    },
+    {
+        "_id" : "BZD",
+        "Accumulated account balances" : 24296.690000000002
+    },
+    {
+        "_id" : "ERN",
+        "Accumulated account balances" : 21598.47
+    },
+    {
+        "_id" : "MNT",
+        "Accumulated account balances" : 639977.48
+    },
+    {
+        "_id" : "IRR",
+        "Accumulated account balances" : 804397.05
+    },
+    {
+        "_id" : "TOP",
+        "Accumulated account balances" : 18424.47
+    },
+    {
+        "_id" : "ZMW",
+        "Accumulated account balances" : 160940.53
+    },
+    {
+        "_id" : "NGN",
+        "Accumulated account balances" : 1282147.14
+    },
+    {
+        "_id" : "ISK",
+        "Accumulated account balances" : 39048.74
+    },
+    {
+        "_id" : "KZT",
+        "Accumulated account balances" : 584923.2
+    },
+    {
+        "_id" : "AUD",
+        "Accumulated account balances" : 242667.03
+    },
+    {
+        "_id" : "COP",
+        "Accumulated account balances" : 1976194.79
+    },
+    {
+        "_id" : "BOB",
+        "Accumulated account balances" : 257433.54
+    },
+    {
+        "_id" : "LTL",
+        "Accumulated account balances" : 220627.42
+    },
+    {
+        "_id" : "CDF",
+        "Accumulated account balances" : 178097.37
+    },
+    {
+        "_id" : "AMD",
+        "Accumulated account balances" : 602964.09
+    },
+    {
+        "_id" : "TND",
+        "Accumulated account balances" : 325755.9
+    },
+    {
+        "_id" : "VND",
+        "Accumulated account balances" : 1395639.11
+    },
+    {
+        "_id" : "PHP",
+        "Accumulated account balances" : 8223429.02
+    },
+    {
+        "_id" : "CNY",
+        "Accumulated account balances" : 27425502.27
+    },
+    {
+        "_id" : "THB",
+        "Accumulated account balances" : 2084269.88
+    },
+    {
+        "_id" : "BDT",
+        "Accumulated account balances" : 294843.38
+    },
+    {
+        "_id" : "SCR",
+        "Accumulated account balances" : 14797.58
+    },
+    {
+        "_id" : "UAH",
+        "Accumulated account balances" : 2505840.72
+    },
+    {
+        "_id" : "RSD",
+        "Accumulated account balances" : 817403.54
+    },
+    {
+        "_id" : "WST",
+        "Accumulated account balances" : 30739.64
+    },
+    {
+        "_id" : "SLL",
+        "Accumulated account balances" : 116224.9
+    },
+    {
+        "_id" : "HUF",
+        "Accumulated account balances" : 165192.16
+    },
+    {
+        "_id" : "HKD",
+        "Accumulated account balances" : 23023.02
+    },
+    {
+        "_id" : "BWP",
+        "Accumulated account balances" : 146972.04
+    },
+    {
+        "_id" : "ETB",
+        "Accumulated account balances" : 269686.62
+    },
+    {
+        "_id" : "GHS",
+        "Accumulated account balances" : 83159.05
+    },
+    {
+        "_id" : "SRD",
+        "Accumulated account balances" : 19686.77
+    },
+    {
+        "_id" : "SZL",
+        "Accumulated account balances" : 59113.090000000004
+    },
+    {
+        "_id" : "KWD",
+        "Accumulated account balances" : 82506.07
+    },
+    {
+        "_id" : "BRL",
+        "Accumulated account balances" : 5609900
+    },
+    {
+        "_id" : "CZK",
+        "Accumulated account balances" : 2644211.16
+    },
+    {
+        "_id" : "MKD",
+        "Accumulated account balances" : 436912.01
+    },
+    {
+        "_id" : "EUR",
+        "Accumulated account balances" : 16700089.28
+    },
+    {
+        "_id" : "CRC",
+        "Accumulated account balances" : 334544.06
+    },
+    {
+        "_id" : "IQD",
+        "Accumulated account balances" : 167531.82
+    },
+    {
+        "_id" : "NZD",
+        "Accumulated account balances" : 338447.54
+    },
+    {
+        "_id" : "AWG",
+        "Accumulated account balances" : 7282.73
+    },
+    {
+        "_id" : "KES",
+        "Accumulated account balances" : 269798.11
+    },
+    {
+        "_id" : "TRY",
+        "Accumulated account balances" : 18414.53
+    },
+    {
+        "_id" : "PLN",
+        "Accumulated account balances" : 5075737.36
+    },
+    {
+        "_id" : "KGS",
+        "Accumulated account balances" : 176827.79
+    },
+    {
+        "_id" : "TTD",
+        "Accumulated account balances" : 44044.89
+    },
+    {
+        "_id" : "INR",
+        "Accumulated account balances" : 24172.940000000002
+    },
+    {
+        "_id" : "MUR",
+        "Accumulated account balances" : 182130.48
+    },
+    {
+        "_id" : "DZD",
+        "Accumulated account balances" : 12166.2
+    },
+    {
+        "_id" : "ZAR",
+        "Accumulated account balances" : 932463.66
+    },
+    {
+        "_id" : "MXN",
+        "Accumulated account balances" : 1547673.09
+    },
+    {
+        "_id" : "SAR",
+        "Accumulated account balances" : 161706
+    },
+    {
+        "_id" : "GNF",
+        "Accumulated account balances" : 73222.48
+    },
+    {
+        "_id" : "SBD",
+        "Accumulated account balances" : 9983
+    },
+    {
+        "_id" : "MGA",
+        "Accumulated account balances" : 377675.55
+    },
+    {
+        "_id" : "RUB",
+        "Accumulated account balances" : 8532474.09
+    },
+    {
+        "_id" : "LKR",
+        "Accumulated account balances" : 225111.38999999998
+    },
+    {
+        "_id" : "JOD",
+        "Accumulated account balances" : 210496.68
+    },
+    {
+        "_id" : "KYD",
+        "Accumulated account balances" : 16809.66
+    },
+    {
+        "_id" : "JMD",
+        "Accumulated account balances" : 201447.71
+    },
+    {
+        "_id" : "KMF",
+        "Accumulated account balances" : 138004.7
+    },
+    {
+        "_id" : "SOS",
+        "Accumulated account balances" : 82203.48
+    },
+    {
+        "_id" : "KHR",
+        "Accumulated account balances" : 100447.58
+    },
+    {
+        "_id" : "ANG",
+        "Accumulated account balances" : 21354.39
+    },
+    {
+        "_id" : "TJS",
+        "Accumulated account balances" : 177401.05
+    },
+    {
+        "_id" : "YER",
+        "Accumulated account balances" : 583657.38
+    },
+    {
+        "_id" : "PKR",
+        "Accumulated account balances" : 687770.55
+    },
+    {
+        "_id" : "ILS",
+        "Accumulated account balances" : 758807.63
+    },
+    {
+        "_id" : "SYP",
+        "Accumulated account balances" : 501467.35
+    },
+    {
+        "_id" : "KRW",
+        "Accumulated account balances" : 433497.06
+    },
+    {
+        "_id" : "AOA",
+        "Accumulated account balances" : 67582.8
+    },
+    {
+        "_id" : "MVR",
+        "Accumulated account balances" : 32068.850000000002
+    },
+    {
+        "_id" : "CAD",
+        "Accumulated account balances" : 1973241.6
+    },
+    {
+        "_id" : "UGX",
+        "Accumulated account balances" : 345203.25
+    },
+    {
+        "_id" : "BIF",
+        "Accumulated account balances" : 45782.33
+    },
+    {
+        "_id" : "DOP",
+        "Accumulated account balances" : 534069.77
+    },
+    {
+        "_id" : "BHD",
+        "Accumulated account balances" : 22698.46
+    },
+    {
+        "_id" : "LAK",
+        "Accumulated account balances" : 86305.05
+    },
+    {
+        "_id" : "GYD",
+        "Accumulated account balances" : 13053.5
+    },
+    {
+        "_id" : "PGK",
+        "Accumulated account balances" : 61445.270000000004
+    },
+    {
+        "_id" : "BYR",
+        "Accumulated account balances" : 686489.84
+    },
+    {
+        "_id" : "PAB",
+        "Accumulated account balances" : 363643.61
+    },
+    {
+        "_id" : "MWK",
+        "Accumulated account balances" : 88106.83
+    },
+    {
+        "_id" : "RWF",
+        "Accumulated account balances" : 43299.96
+    },
+    {
+        "_id" : "SSP",
+        "Accumulated account balances" : 42256.53
+    },
+    {
+        "_id" : "USD",
+        "Accumulated account balances" : 4086760.81
+    },
+    {
+        "_id" : "CHF",
+        "Accumulated account balances" : 108940.64
+    },
+    {
+        "_id" : "TMT",
+        "Accumulated account balances" : 113099.62
+    },
+    {
+        "_id" : "GMD",
+        "Accumulated account balances" : 157963.9
+    },
+    {
+        "_id" : "MDL",
+        "Accumulated account balances" : 173318.73
+    },
+    {
+        "_id" : "GEL",
+        "Accumulated account balances" : 157276.96
+    },
+    {
+        "_id" : "DJF",
+        "Accumulated account balances" : 14734.27
+    },
+    {
+        "_id" : "JPY",
+        "Accumulated account balances" : 2584824.9
+    },
+    {
+        "_id" : "NIO",
+        "Accumulated account balances" : 240664.87
+    },
+    {
+        "_id" : "MYR",
+        "Accumulated account balances" : 666533.65
+    },
+    {
+        "_id" : "LBP",
+        "Accumulated account balances" : 43326.06
+    },
+    {
+        "_id" : "SEK",
+        "Accumulated account balances" : 3706221.0100000002
+    },
+    {
+        "_id" : "LRD",
+        "Accumulated account balances" : 54883.45
+    },
+    {
+        "_id" : "BTN",
+        "Accumulated account balances" : 37711.08
+    },
+    {
+        "_id" : "FKP",
+        "Accumulated account balances" : 5118.97
+    },
+    {
+        "_id" : "RON",
+        "Accumulated account balances" : 11557.6
+    },
+    {
+        "_id" : "NAD",
+        "Accumulated account balances" : 55420.34
+    },
+    {
+        "_id" : "BND",
+        "Accumulated account balances" : 7782.66
+    },
+    {
+        "_id" : "TZS",
+        "Accumulated account balances" : 603855.99
+    },
+    {
+        "_id" : "MMK",
+        "Accumulated account balances" : 223284.76
+    },
+    {
+        "_id" : "BSD",
+        "Accumulated account balances" : 55361.39
+    },
+    {
+        "_id" : "AFN",
+        "Accumulated account balances" : 661834.75
+    },
+    {
+        "_id" : "AED",
+        "Accumulated account balances" : 52973.33
+    },
+    {
+        "_id" : "MOP",
+        "Accumulated account balances" : 5337.77
+    },
+    {
+        "_id" : "ZWL",
+        "Accumulated account balances" : 142978.86
+    },
+    {
+        "_id" : "KPW",
+        "Accumulated account balances" : 222518.63
+    },
+    {
+        "_id" : "OMR",
+        "Accumulated account balances" : 87008.08
+    },
+    {
+        "_id" : "XCD",
+        "Accumulated account balances" : 168150.01
+    },
+    {
+        "_id" : "NOK",
+        "Accumulated account balances" : 760113.61
+    },
+    {
+        "_id" : "IDR",
+        "Accumulated account balances" : 15619806.11
+    },
+    {
+        "_id" : "MAD",
+        "Accumulated account balances" : 510936.11
+    },
+    {
+        "_id" : "EGP",
+        "Accumulated account balances" : 528336.14
+    }
+]
+[
+    {
+        "_id" : "HTG",
+        "Accumulated account balances" : 215992.13
+    },
+    {
+        "_id" : "VUV",
+        "Accumulated account balances" : 23188.93
+    },
+    {
+        "_id" : "CUP",
+        "Accumulated account balances" : 514413.88
+    },
+    {
+        "_id" : "MRO",
+        "Accumulated account balances" : 44471.32
+    },
+    {
+        "_id" : "AZN",
+        "Accumulated account balances" : 394880.17
+    },
+    {
+        "_id" : "ARS",
+        "Accumulated account balances" : 1940347.24
+    },
+    {
+        "_id" : "TWD",
+        "Accumulated account balances" : 37654
+    },
+    {
+        "_id" : "ALL",
+        "Accumulated account balances" : 651597.87
+    },
+    {
+        "_id" : "PYG",
+        "Accumulated account balances" : 286515.48
+    },
+    {
+        "_id" : "XPF",
+        "Accumulated account balances" : 132926.01
+    },
+    {
+        "_id" : "CLP",
+        "Accumulated account balances" : 388620.14
+    },
+    {
+        "_id" : "BBD",
+        "Accumulated account balances" : 26720.5
+    },
+    {
+        "_id" : "SGD",
+        "Accumulated account balances" : 12820.48
+    },
+    {
+        "_id" : "SDG",
+        "Accumulated account balances" : 127317.75
+    },
+    {
+        "_id" : "DKK",
+        "Accumulated account balances" : 222452.28
+    },
+    {
+        "_id" : "QAR",
+        "Accumulated account balances" : 36358.92
+    },
+    {
+        "_id" : "MZN",
+        "Accumulated account balances" : 92068.64
+    },
+    {
+        "_id" : "XOF",
+        "Accumulated account balances" : 934043.61
+    },
+    {
+        "_id" : "BGN",
+        "Accumulated account balances" : 496641.83
+    },
+    {
+        "_id" : "PEN",
+        "Accumulated account balances" : 2356548.02
+    },
+    {
+        "_id" : "BAM",
+        "Accumulated account balances" : 415965.47
+    },
+    {
+        "_id" : "STD",
+        "Accumulated account balances" : 4854.36
+    },
+    {
+        "_id" : "HRK",
+        "Accumulated account balances" : 689403.5
+    },
+    {
+        "_id" : "XAF",
+        "Accumulated account balances" : 736336.77
+    },
+    {
+        "_id" : "LSL",
+        "Accumulated account balances" : 26269.07
+    },
+    {
+        "_id" : "FJD",
+        "Accumulated account balances" : 9321.43
+    },
+    {
+        "_id" : "UYU",
+        "Accumulated account balances" : 231996.14
+    },
+    {
+        "_id" : "HNL",
+        "Accumulated account balances" : 817695.24
+    },
+    {
+        "_id" : "NPR",
+        "Accumulated account balances" : 146606.65
+    },
+    {
+        "_id" : "GBP",
+        "Accumulated account balances" : 243512.86
+    },
+    {
+        "_id" : "LYD",
+        "Accumulated account balances" : 197545.65
+    },
+    {
+        "_id" : "BMD",
+        "Accumulated account balances" : 5189
+    },
+    {
+        "_id" : "UZS",
+        "Accumulated account balances" : 330309.61
+    },
+    {
+        "_id" : "VEF",
+        "Accumulated account balances" : 629053.41
+    },
+    {
+        "_id" : "GTQ",
+        "Accumulated account balances" : 588368.85
+    },
+    {
+        "_id" : "CVE",
+        "Accumulated account balances" : 46538.51
+    },
+    {
+        "_id" : "BZD",
+        "Accumulated account balances" : 24296.690000000002
+    },
+    {
+        "_id" : "ERN",
+        "Accumulated account balances" : 21598.47
+    },
+    {
+        "_id" : "MNT",
+        "Accumulated account balances" : 639977.48
+    },
+    {
+        "_id" : "IRR",
+        "Accumulated account balances" : 804397.05
+    },
+    {
+        "_id" : "TOP",
+        "Accumulated account balances" : 18424.47
+    },
+    {
+        "_id" : "ZMW",
+        "Accumulated account balances" : 160940.53
+    },
+    {
+        "_id" : "NGN",
+        "Accumulated account balances" : 1282147.14
+    },
+    {
+        "_id" : "ISK",
+        "Accumulated account balances" : 39048.74
+    },
+    {
+        "_id" : "KZT",
+        "Accumulated account balances" : 584923.2
+    },
+    {
+        "_id" : "AUD",
+        "Accumulated account balances" : 242667.03
+    },
+    {
+        "_id" : "COP",
+        "Accumulated account balances" : 1976194.79
+    },
+    {
+        "_id" : "BOB",
+        "Accumulated account balances" : 257433.54
+    },
+    {
+        "_id" : "LTL",
+        "Accumulated account balances" : 220627.42
+    },
+    {
+        "_id" : "CDF",
+        "Accumulated account balances" : 178097.37
+    },
+    {
+        "_id" : "AMD",
+        "Accumulated account balances" : 602964.09
+    },
+    {
+        "_id" : "TND",
+        "Accumulated account balances" : 325755.9
+    },
+    {
+        "_id" : "VND",
+        "Accumulated account balances" : 1395639.11
+    },
+    {
+        "_id" : "PHP",
+        "Accumulated account balances" : 8223429.02
+    },
+    {
+        "_id" : "CNY",
+        "Accumulated account balances" : 27425502.27
+    },
+    {
+        "_id" : "THB",
+        "Accumulated account balances" : 2084269.88
+    },
+    {
+        "_id" : "BDT",
+        "Accumulated account balances" : 294843.38
+    },
+    {
+        "_id" : "SCR",
+        "Accumulated account balances" : 14797.58
+    },
+    {
+        "_id" : "UAH",
+        "Accumulated account balances" : 2505840.72
+    },
+    {
+        "_id" : "RSD",
+        "Accumulated account balances" : 817403.54
+    },
+    {
+        "_id" : "WST",
+        "Accumulated account balances" : 30739.64
+    },
+    {
+        "_id" : "SLL",
+        "Accumulated account balances" : 116224.9
+    },
+    {
+        "_id" : "HUF",
+        "Accumulated account balances" : 165192.16
+    },
+    {
+        "_id" : "HKD",
+        "Accumulated account balances" : 23023.02
+    },
+    {
+        "_id" : "BWP",
+        "Accumulated account balances" : 146972.04
+    },
+    {
+        "_id" : "ETB",
+        "Accumulated account balances" : 269686.62
+    },
+    {
+        "_id" : "GHS",
+        "Accumulated account balances" : 83159.05
+    },
+    {
+        "_id" : "SRD",
+        "Accumulated account balances" : 19686.77
+    },
+    {
+        "_id" : "SZL",
+        "Accumulated account balances" : 59113.090000000004
+    },
+    {
+        "_id" : "KWD",
+        "Accumulated account balances" : 82506.07
+    },
+    {
+        "_id" : "BRL",
+        "Accumulated account balances" : 5609900
+    },
+    {
+        "_id" : "CZK",
+        "Accumulated account balances" : 2644211.16
+    },
+    {
+        "_id" : "MKD",
+        "Accumulated account balances" : 436912.01
+    },
+    {
+        "_id" : "EUR",
+        "Accumulated account balances" : 16700089.28
+    },
+    {
+        "_id" : "CRC",
+        "Accumulated account balances" : 334544.06
+    },
+    {
+        "_id" : "IQD",
+        "Accumulated account balances" : 167531.82
+    },
+    {
+        "_id" : "NZD",
+        "Accumulated account balances" : 338447.54
+    },
+    {
+        "_id" : "AWG",
+        "Accumulated account balances" : 7282.73
+    },
+    {
+        "_id" : "KES",
+        "Accumulated account balances" : 269798.11
+    },
+    {
+        "_id" : "TRY",
+        "Accumulated account balances" : 18414.53
+    },
+    {
+        "_id" : "PLN",
+        "Accumulated account balances" : 5075737.36
+    },
+    {
+        "_id" : "KGS",
+        "Accumulated account balances" : 176827.79
+    },
+    {
+        "_id" : "TTD",
+        "Accumulated account balances" : 44044.89
+    },
+    {
+        "_id" : "INR",
+        "Accumulated account balances" : 24172.940000000002
+    },
+    {
+        "_id" : "MUR",
+        "Accumulated account balances" : 182130.48
+    },
+    {
+        "_id" : "DZD",
+        "Accumulated account balances" : 12166.2
+    },
+    {
+        "_id" : "ZAR",
+        "Accumulated account balances" : 932463.66
+    },
+    {
+        "_id" : "MXN",
+        "Accumulated account balances" : 1547673.09
+    },
+    {
+        "_id" : "SAR",
+        "Accumulated account balances" : 161706
+    },
+    {
+        "_id" : "GNF",
+        "Accumulated account balances" : 73222.48
+    },
+    {
+        "_id" : "SBD",
+        "Accumulated account balances" : 9983
+    },
+    {
+        "_id" : "MGA",
+        "Accumulated account balances" : 377675.55
+    },
+    {
+        "_id" : "RUB",
+        "Accumulated account balances" : 8532474.09
+    },
+    {
+        "_id" : "LKR",
+        "Accumulated account balances" : 225111.38999999998
+    },
+    {
+        "_id" : "JOD",
+        "Accumulated account balances" : 210496.68
+    },
+    {
+        "_id" : "KYD",
+        "Accumulated account balances" : 16809.66
+    },
+    {
+        "_id" : "JMD",
+        "Accumulated account balances" : 201447.71
+    },
+    {
+        "_id" : "KMF",
+        "Accumulated account balances" : 138004.7
+    },
+    {
+        "_id" : "SOS",
+        "Accumulated account balances" : 82203.48
+    },
+    {
+        "_id" : "KHR",
+        "Accumulated account balances" : 100447.58
+    },
+    {
+        "_id" : "ANG",
+        "Accumulated account balances" : 21354.39
+    },
+    {
+        "_id" : "TJS",
+        "Accumulated account balances" : 177401.05
+    },
+    {
+        "_id" : "YER",
+        "Accumulated account balances" : 583657.38
+    },
+    {
+        "_id" : "PKR",
+        "Accumulated account balances" : 687770.55
+    },
+    {
+        "_id" : "ILS",
+        "Accumulated account balances" : 758807.63
+    },
+    {
+        "_id" : "SYP",
+        "Accumulated account balances" : 501467.35
+    },
+    {
+        "_id" : "KRW",
+        "Accumulated account balances" : 433497.06
+    },
+    {
+        "_id" : "AOA",
+        "Accumulated account balances" : 67582.8
+    },
+    {
+        "_id" : "MVR",
+        "Accumulated account balances" : 32068.850000000002
+    },
+    {
+        "_id" : "CAD",
+        "Accumulated account balances" : 1973241.6
+    },
+    {
+        "_id" : "UGX",
+        "Accumulated account balances" : 345203.25
+    },
+    {
+        "_id" : "BIF",
+        "Accumulated account balances" : 45782.33
+    },
+    {
+        "_id" : "DOP",
+        "Accumulated account balances" : 534069.77
+    },
+    {
+        "_id" : "BHD",
+        "Accumulated account balances" : 22698.46
+    },
+    {
+        "_id" : "LAK",
+        "Accumulated account balances" : 86305.05
+    },
+    {
+        "_id" : "GYD",
+        "Accumulated account balances" : 13053.5
+    },
+    {
+        "_id" : "PGK",
+        "Accumulated account balances" : 61445.270000000004
+    },
+    {
+        "_id" : "BYR",
+        "Accumulated account balances" : 686489.84
+    },
+    {
+        "_id" : "PAB",
+        "Accumulated account balances" : 363643.61
+    },
+    {
+        "_id" : "MWK",
+        "Accumulated account balances" : 88106.83
+    },
+    {
+        "_id" : "RWF",
+        "Accumulated account balances" : 43299.96
+    },
+    {
+        "_id" : "SSP",
+        "Accumulated account balances" : 42256.53
+    },
+    {
+        "_id" : "USD",
+        "Accumulated account balances" : 4086760.81
+    },
+    {
+        "_id" : "CHF",
+        "Accumulated account balances" : 108940.64
+    },
+    {
+        "_id" : "TMT",
+        "Accumulated account balances" : 113099.62
+    },
+    {
+        "_id" : "GMD",
+        "Accumulated account balances" : 157963.9
+    },
+    {
+        "_id" : "MDL",
+        "Accumulated account balances" : 173318.73
+    },
+    {
+        "_id" : "GEL",
+        "Accumulated account balances" : 157276.96
+    },
+    {
+        "_id" : "DJF",
+        "Accumulated account balances" : 14734.27
+    },
+    {
+        "_id" : "JPY",
+        "Accumulated account balances" : 2584824.9
+    },
+    {
+        "_id" : "NIO",
+        "Accumulated account balances" : 240664.87
+    },
+    {
+        "_id" : "MYR",
+        "Accumulated account balances" : 666533.65
+    },
+    {
+        "_id" : "LBP",
+        "Accumulated account balances" : 43326.06
+    },
+    {
+        "_id" : "SEK",
+        "Accumulated account balances" : 3706221.0100000002
+    },
+    {
+        "_id" : "LRD",
+        "Accumulated account balances" : 54883.45
+    },
+    {
+        "_id" : "BTN",
+        "Accumulated account balances" : 37711.08
+    },
+    {
+        "_id" : "FKP",
+        "Accumulated account balances" : 5118.97
+    },
+    {
+        "_id" : "RON",
+        "Accumulated account balances" : 11557.6
+    },
+    {
+        "_id" : "NAD",
+        "Accumulated account balances" : 55420.34
+    },
+    {
+        "_id" : "BND",
+        "Accumulated account balances" : 7782.66
+    },
+    {
+        "_id" : "TZS",
+        "Accumulated account balances" : 603855.99
+    },
+    {
+        "_id" : "MMK",
+        "Accumulated account balances" : 223284.76
+    },
+    {
+        "_id" : "BSD",
+        "Accumulated account balances" : 55361.39
+    },
+    {
+        "_id" : "AFN",
+        "Accumulated account balances" : 661834.75
+    },
+    {
+        "_id" : "AED",
+        "Accumulated account balances" : 52973.33
+    },
+    {
+        "_id" : "MOP",
+        "Accumulated account balances" : 5337.77
+    },
+    {
+        "_id" : "ZWL",
+        "Accumulated account balances" : 142978.86
+    },
+    {
+        "_id" : "KPW",
+        "Accumulated account balances" : 222518.63
+    },
+    {
+        "_id" : "OMR",
+        "Accumulated account balances" : 87008.08
+    },
+    {
+        "_id" : "XCD",
+        "Accumulated account balances" : 168150.01
+    },
+    {
+        "_id" : "NOK",
+        "Accumulated account balances" : 760113.61
+    },
+    {
+        "_id" : "IDR",
+        "Accumulated account balances" : 15619806.11
+    },
+    {
+        "_id" : "MAD",
+        "Accumulated account balances" : 510936.11
+    },
+    {
+        "_id" : "EGP",
+        "Accumulated account balances" : 528336.14
+    }
+]
