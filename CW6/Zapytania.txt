@@ -1,0 +1,10 @@
+1:
+MATCH (miasto:town { name: "Darjeeling" }), (góra:peak { name: "Sandakphu" })
+MATCH najszybszaTrasa = ShortestPath((miasto)-[*]->(góra))
+RETURN najszybszaTrasa
+
+2:
+MATCH (miasto:town { name: "Darjeeling" }), (góra:peak { name: "Sandakphu" })
+MATCH najszybszaTrasa = ShortestPath((miasto)-[*]->(góra))
+WHERE ALL (trasa IN relationships(najszybszaTrasa) WHERE trasa.winter = "true")
+RETURN najszybszaTrasa
